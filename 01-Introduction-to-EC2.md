@@ -21,7 +21,6 @@
 - **Reserved**: Save money with a 1-3 year commitment.
 - **Spot**: Bid on unused capacity at lower prices.
 
-Learn EC2 Pricing Models: https://youtu.be/_d42iIc-P5I?si=iryRTLHu10dwFOUM
 
 ### 📝 Getting Started
 1. **Choose an AMI**: Select OS/software.
